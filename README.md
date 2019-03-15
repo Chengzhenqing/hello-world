@@ -1,5 +1,6 @@
 # hello-world
 just another resository
-My home is Changchun City
-I love Changchun
-Welcome to Changchun
+Hi humans
+My name is John cheng,you can call me John.
+I'm an automotive engineer.
+
